@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atul-kant-tiwari-855a71278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-kant-tiwari-855a71278/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atul-kant-tiwari-855a71278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-kant-tiwari-855a71278/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_a_t_u_l___k_a_n_t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_a_t_u_l___k_a_n_t/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/atulkanttiwari5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/atulkanttiwari5" height="30" width="40" /></a>
 </p>
