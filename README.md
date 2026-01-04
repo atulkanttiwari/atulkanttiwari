@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atul Kant Tiwari</h1>
+<h1 align="center">Hi 👋, I am Atul Kant Tiwari</h1>
 <h3 align="center">Aspiring Data Scientist | ML, NLP & Deep Learning Enthusiast</h3>
 
 <p align="center">
@@ -7,69 +7,79 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎯 Passionate about **Data Science, Machine Learning, NLP, and Deep Learning**  
-- 🌱 Currently focusing on **practical ML & NLP projects** and preparing for **Generative AI & Data Analysis**  
-- 🚀 Goal: Become a proficient **Data Scientist & AI researcher**  
-- 📫 Reach me at **[atulkanttiwari5@gmail.com](mailto:atulkanttiwari5@gmail.com)**
+### 👨‍💻 About Me
+- 🎯 Passionate about **Data Science, Machine Learning, NLP, and Deep Learning**
+- 🌱 Currently focusing on **practical ML & NLP projects** and preparing for **Generative AI & Data Analysis**
+- 🚀 Goal: Become a proficient **Data Scientist & AI researcher**
+- 📚 Deep Learning Theory: **ANN, RNN, CNN** (Ready for implementation)
 
 ---
 
-## 🛠️ Skills
-<div align="center" style="margin-top:10px;margin-bottom:10px;">
-  <!-- Programming & Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C (Basic)"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++ (Basic)"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java (Basic)"/>
-  <br><br>
-  <!-- Machine Learning & Deep Learning -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Seaborn_logo.svg" width="40" title="Seaborn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="scikit-learn"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
-  <br><br>
-  <!-- Web / Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" title="Flask"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40" title="Streamlit"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" title="Oracle SQL"/>
+### 🌐 Socials
+<p align="center">
+  <a href="mailto:atulkanttiwari5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/atul-kant-tiwari-855a71278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/atulkanttiwari5" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<div align="center">
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Seaborn-444?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+
 </div>
 
 ---
 
-### 📚 Deep Learning Theory
-- **ANN, RNN, CNN** (Theory knowledge, ready for practical implementation)
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atulkanttiwari&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
 ---
 
-## 🎯 Future Learning Goals
-- **Data Analysis & Visualization** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Generative AI & Large Language Models (LLMs)**  
-- Advanced Deep Learning & Computer Vision projects  
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atulkanttiwari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkanttiwari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages graph"  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulkanttiwari&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
+</div>
 
 ---
 
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/atul-kant-tiwari-855a71278/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/atulkanttiwari5" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulkanttiwari&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulkanttiwari&theme=radical" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=atulkanttiwari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</div>
