@@ -78,6 +78,3 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulkanttiwari&bg_color=0D1117&color=5bcdec&line=5bcdec&point=ffffff&hide_border=true&area=true" alt="activity graph"/>
-</div>
