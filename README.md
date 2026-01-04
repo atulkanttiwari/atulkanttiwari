@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 - 🎯 Passionate about **Data Science, Machine Learning, NLP, and Deep Learning**  
-- 🌱 Currently focusing on **practical ML, NLP projects and preparing for Generative AI & Data Analysis**  
+- 🌱 Currently focusing on **practical ML & NLP projects** and preparing for **Generative AI & Data Analysis**  
 - 🚀 Goal: Become a proficient **Data Scientist & AI researcher**  
 - 📫 Reach me at **atulkanttiwari5@gmail.com**
 
@@ -17,52 +17,47 @@
 
 ## 🛠️ Skills
 
-### Programming & Languages
-<p>
+<div align="center">
+  <!-- Programming & Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C (Basic)"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++ (Basic)"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java (Basic)"/>
-</p>
-
-### Machine Learning & Deep Learning
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" title="scikit-learn"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <br><br>
+  <!-- Machine Learning & Deep Learning -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="40" title="Seaborn"/>
-</p>
-
-### Web / Tools (Supporting Skills)
-<p>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" title="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
+  <br><br>
+  <!-- Web / Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" title="Flask"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40" title="Streamlit"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" title="Oracle SQL"/>
-</p>
+</div>
+
+---
 
 ### Deep Learning Theory
-- **ANN, RNN, CNN** (Theory knowledge, ready for practical projects)
+- **ANN, RNN, CNN** (Theory knowledge, ready for practical implementation)
 
 ---
 
 ## 🎯 Future Learning Goals
-- **Data Analysis & Visualization** (pandas, numpy, matplotlib, seaborn)  
+- **Data Analysis & Visualization** (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Generative AI & Large Language Models (LLMs)**  
 - Advanced Deep Learning & Computer Vision projects  
 
 ---
 
 ## 🤝 Connect With Me
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/atul-kant-tiwari-855a71278/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/_a_t_u_l___k_a_n_t/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
   <a href="https://www.hackerrank.com/profile/atulkanttiwari5" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
@@ -73,9 +68,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulkanttiwari&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atulkanttiwari&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulkanttiwari"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulkanttiwari&theme=radical" alt="GitHub Streak"/>
 </p>
