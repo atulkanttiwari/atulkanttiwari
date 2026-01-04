@@ -61,20 +61,19 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atulkanttiwari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atulkanttiwari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atulkanttiwari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_bust=1" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atulkanttiwari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_bust=1" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=atulkanttiwari&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atulkanttiwari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&cache_bust=1" alt="contribution stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulkanttiwari&bg_color=0D1117&color=5bcdec&line=5bcdec&point=ffffff&hide_border=true&area=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulkanttiwari&bg_color=0D1117&color=5bcdec&line=5bcdec&point=ffffff&hide_border=true&area=true&cache_bust=1" alt="activity graph"/>
 </div>
-
 
