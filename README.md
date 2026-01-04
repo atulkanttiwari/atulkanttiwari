@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | ML, NLP & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atulkanttiwari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=atulkanttiwari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -11,13 +11,12 @@
 - 🎯 Passionate about **Data Science, Machine Learning, NLP, and Deep Learning**  
 - 🌱 Currently focusing on **practical ML & NLP projects** and preparing for **Generative AI & Data Analysis**  
 - 🚀 Goal: Become a proficient **Data Scientist & AI researcher**  
-- 📫 Reach me at **atulkanttiwari5@gmail.com**
+- 📫 Reach me at **[atulkanttiwari5@gmail.com](mailto:atulkanttiwari5@gmail.com)**
 
 ---
 
 ## 🛠️ Skills
-
-<div align="center">
+<div align="center" style="margin-top:10px;margin-bottom:10px;">
   <!-- Programming & Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
@@ -29,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" title="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Seaborn_logo.svg" width="40" title="Seaborn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="scikit-learn"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
   <br><br>
@@ -42,7 +41,7 @@
 
 ---
 
-### Deep Learning Theory
+### 📚 Deep Learning Theory
 - **ANN, RNN, CNN** (Theory knowledge, ready for practical implementation)
 
 ---
