@@ -59,13 +59,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atulkanttiwari&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atulkanttiwari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
@@ -75,11 +68,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulkanttiwari&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=atulkanttiwari&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=atulkanttiwari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulkanttiwari&bg_color=0D1117&color=5bcdec&line=5bcdec&point=ffffff&hide_border=true&area=true" alt="activity graph"/>
 </div>
