@@ -11,7 +11,7 @@
 - 🎯 Passionate about **Data Science, Machine Learning, NLP, and Deep Learning**
 - 🌱 Currently focusing on **practical ML & NLP projects** and preparing for **Generative AI & Data Analysis**
 - 🚀 Goal: Become a proficient **Data Scientist & AI researcher**
-- 📚 Deep Learning Theory: **ANN, RNN, CNN** (Ready for implementation)
+- 📚 Deep Learning : **ANN, RNN, CNN** (CNN Theory only)
 
 ---
 
