@@ -1,0 +1,206 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+% Custom commands
+\newcommand{\resumeItem}[1]{\item\small{{#1 \vspace{-2pt}}}}
+\newcommand{\resumeSubheading}[2]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+    \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeEducation}[3]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textit{\small #2} \\
+      \small #3 \\
+    \end{tabular*}\vspace{-6pt}
+}
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%% RESUME STARTS HERE  %%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\huge \scshape Atul Kant Tiwari} \\ \vspace{4pt}
+    \small
+    Durgapur, West Bengal, India $|$
+    \href{mailto:atulkanttiwari5@gmail.com}{\textcolor{MidnightBlue}{atulkanttiwari5@gmail.com}} $|$
+    \href{https://github.com/atulkanttiwari}{\textcolor{MidnightBlue}{github.com/atulkanttiwari}} $|$\\ \vspace{2pt}
+    \href{https://www.linkedin.com/in/atul-kant-tiwari-855a71278/}{\textcolor{MidnightBlue}{linkedin.com/in/atul-kant-tiwari}} $|$
+    \href{tel:+919065162929}{\textcolor{MidnightBlue}{+91 9065162929}}
+\end{center}
+
+%-----------SUMMARY-----------
+\section{Summary}
+\vspace{2pt}
+\small{Final-year Computer Science student with proven expertise in building, training, and deploying end-to-end machine learning and deep learning solutions. Experienced in data preprocessing, feature engineering, model optimization, and deployment on cloud platforms. Strong foundation in supervised learning (classification \& regression), deep learning (CNN, LSTM), and NLP. Seeking a \textbf{Data Scientist / Machine Learning Engineer} role to solve complex business problems using data-driven insights and advanced ML techniques.} \vspace{4pt}
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeEducation
+  {Bengal College of Engineering and Technology, Durgapur}
+  {Aug 2022 -- May 2026}
+  {B.Tech in Computer Science and Engineering \quad CGPA: 7.38}
+
+\resumeEducation
+  {Bihar Vikas Vidyalaya, Kuchaikote, Gopalganj}
+  {}
+  {Class 12 (Board): 72\% \quad Class 10 (Board): 76\%}
+
+\resumeSubHeadingListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{
+  \item{
+    \textbf{Languages:} Python, SQL, C, C++ \\
+    \textbf{ML/DL Frameworks:} TensorFlow, Keras, Scikit-learn, XGBoost, LightGBM \\
+    \textbf{Data Processing:} Pandas, NumPy, Matplotlib, Seaborn, Plotly \\
+    \textbf{Specialized Libraries:} OpenCV (Computer Vision), NLTK, SpaCy (NLP) \\
+    \textbf{Deployment \& Tools:} Streamlit, Flask, Docker, AWS EC2, DagsHub, MLflow \\
+    \textbf{Developer Tools:} Git, GitHub, VS Code, Jupyter Notebook, Google Colab \\
+    \textbf{Core Competencies:} Classification, Regression, Clustering, CNN, RNN, LSTM, NLP, EDA, Feature Engineering, Model Evaluation
+  }}
+\end{itemize}
+
+%-----------PROJECTS-----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+% ANN Bank Churn Prediction
+\resumeProjectHeading
+  {\textbf{ANN-Based Bank Customer Churn Prediction} $|$ \emph{Python, TensorFlow, Keras, Streamlit}}
+  {
+    \href{https://github.com/atulkanttiwari/ANN-Classification-Bank-Churn}{\textcolor{blue}{\faGithub\ GitHub}} $|$
+    \href{https://ann-bank-churn.streamlit.app/}{\textcolor{blue}{Live Demo}}
+  }
+\resumeItemListStart
+  \resumeItem{Developed an end-to-end Artificial Neural Network (ANN) to predict customer churn with 86\% accuracy, addressing a key business challenge in customer retention.}
+  \resumeItem{Performed comprehensive EDA, data preprocessing (encoding, scaling, normalization), and feature engineering on a dataset of 10,000+ records.}
+  \resumeItem{Designed and optimized a deep learning architecture (Input $\rightarrow$ Hidden Layers $\rightarrow$ Output) using TensorFlow/Keras with dropout layers to prevent overfitting.}
+  \resumeItem{Evaluated model performance using confusion matrix, ROC-AUC curve, precision, recall, and F1-score; achieved 81\% test accuracy.}
+  \resumeItem{Deployed the production-ready model on Streamlit Cloud for real-time churn predictions and user-friendly visualization of business insights.}
+  \resumeItem{Tracked experiments using MLflow for reproducibility and model versioning.}
+\resumeItemListEnd
+
+% End-to-End Phishing Detection System
+\resumeProjectHeading
+  {\textbf{End-to-End Phishing Detection System} $|$ \emph{Python, Scikit-learn, Flask, Docker, AWS}}
+  {
+    \href{https://github.com/atulkanttiwari/End-to-End-Phishing-Detection-System}{\textcolor{blue}{\faGithub\ GitHub}}
+  }
+\resumeItemListStart
+  \resumeItem{Built a complete ML pipeline to classify phishing websites with 95\% accuracy using feature engineering on URL and website characteristics.}
+  \resumeItem{Implemented supervised classification algorithms (Logistic Regression, Random Forest, SVM) and performed comparative analysis for optimal model selection.}
+  \resumeItem{Created a Flask REST API for serving real-time predictions and integrated model versioning using DagsHub.}
+  \resumeItem{Containerized the application using Docker and deployed on AWS EC2 for scalable, production-grade deployment.}
+  \resumeItem{Demonstrated MLOps best practices including experiment tracking, model serialization, and version control.}
+\resumeItemListEnd
+
+% California House Price Predictor
+\resumeProjectHeading
+  {\textbf{California House Price Prediction (Regression)} $|$ \emph{Python, Scikit-learn, Streamlit}}
+  {
+    \href{https://github.com/atulkanttiwari/California-House-Price-Predictor}{\textcolor{blue}{\faGithub\ GitHub}} $|$
+    \href{https://california-house-predictor.streamlit.app/}{\textcolor{blue}{Live Demo}}
+  }
+\resumeItemListStart
+  \resumeItem{Developed a regression model to predict house prices using multiple ML algorithms (Linear Regression, Ridge, Lasso, Random Forest).}
+  \resumeItem{Performed feature engineering, correlation analysis, and hyperparameter tuning to optimize model performance (R² = 0.82).}
+  \resumeItem{Created an interactive Streamlit web application enabling users to input property features and receive instant price predictions.}
+  \resumeItem{Generated insightful visualizations (feature importance plots, distribution analysis) to communicate model insights to stakeholders.}
+\resumeItemListEnd
+
+% Next Word Predictor (LSTM)
+\resumeProjectHeading
+  {\textbf{Next Word Predictor (LSTM)} $|$ \emph{Python, TensorFlow, Keras, NLTK}}
+  {
+    \href{https://github.com/atulkanttiwari/Next_Word_Predictor_UsingLSTM}{\textcolor{blue}{\faGithub\ GitHub}}
+  }
+\resumeItemListStart
+  \resumeItem{Developed an LSTM-based sequence-to-sequence model for predicting next words in text sequences with 89\% accuracy.}
+  \resumeItem{Implemented NLP preprocessing pipeline: tokenization, vocabulary building, sequence generation, and padding for model input.}
+  \resumeItem{Designed a neural network architecture with embedding layer and stacked LSTM cells to capture long-term dependencies in text data.}
+  \resumeItem{Generated context-aware predictions and demonstrated the model's ability to understand semantic relationships in language.}
+\resumeItemListEnd
+
+% Handwritten Digit Recognition System
+\resumeProjectHeading
+  {\textbf{Handwritten Digit Recognition (CNN)} $|$ \emph{Python, TensorFlow, Keras, Streamlit}}
+  {
+    \href{https://github.com/atulkanttiwari/mnist-digit_predictor}{\textcolor{blue}{\faGithub\ GitHub}}
+  }
+\resumeItemListStart
+  \resumeItem{Built a Convolutional Neural Network (CNN) achieving 98.5\% accuracy on MNIST handwritten digit classification task.}
+  \resumeItem{Implemented image preprocessing (normalization, reshaping) and data augmentation techniques to improve model robustness.}
+  \resumeItem{Designed CNN architecture with convolutional layers, ReLU activation, max pooling, and dropout for efficient feature extraction.}
+  \resumeItem{Deployed model on Streamlit for real-time digit prediction from user-drawn images with confidence scores and visualization.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS & LEARNING-----------
+\section{Certifications \& Continuous Learning}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{
+  \item{
+    \textbf{Google Cloud Skills Boost:} Completed ML and Data Analytics modules (self-paced learning) \\
+    \textbf{Online Courses:} Andrew Ng's Machine Learning Specialization, Deep Learning with TensorFlow
+  }}
+\end{itemize}
+
+\end{document}
