@@ -6,7 +6,7 @@
 <!-- Animated Typing Subheading -->
 <p align="center">
   <a href="https://github.com/atulkanttiwari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Fault-Tolerant+GenAI+%26+Automated+ELT+Pipelines;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangChain+%E2%80%A2+XGBoost+%E2%80%A2+Docker;Deploying+Real-World+ML+%26+Backend+Systems;Open+to+AI%2FML%2C+Data+Science+%26+Software+Engineering+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+Fault-Tolerant+GenAI+%26+Automated+ELT+Pipelines;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangChain+%E2%80%A2+XGBoost+%E2%80%A2+Docker;Deploying+End-to-End+ML+%26+Backend+Systems;Open+to+AI%2FML%2C+Data+Science+%26+Software+Engineering+Roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,26 +26,35 @@
 
 ---
 
-### About Me
-- B.Tech Computer Science graduate (2026) building **production-ready AI/ML pipelines, fault-tolerant LLM workflows, and containerized FastAPI backends**.
-- Strong engineering focus on **asynchronous data pipelines, Pydantic validation, multi-provider LLM orchestration, and MLOps (Docker, GitHub Actions, AWS EC2/IAM, MLflow)**.
-- Currently running **HireSignal AI** daily in the cloud and building **Hybrid RAG & evaluation** systems.
-- Open to entry-level **AI/ML Engineer, AI Developer, Data Scientist, and Backend / Software Engineer** roles.
+### 👨‍💻 About Me
+
+```python
+engineer = {
+    "name": "Atul Kant Tiwari",
+    "education": "B.Tech in Computer Science & Engineering (2026)",
+    "location": "Bengaluru, India",
+    "focus": ["GenAI Pipelines", "MLOps", "FastAPI Backends", "Automated ELT"],
+    "currently_building": ["HireSignal AI", "Hybrid RAG + Evaluation Systems"],
+    "open_to": ["AI/ML Engineer", "AI Developer", "Data Scientist", "Backend (Python)"]
+}
+```
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-| Project | What It Does | Tech Stack | Links |
+| Project | Overview | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **HireSignal AI** | Autonomous daily job-intelligence ELT pipeline ingesting 2,900+ postings/run with URL deduplication, fuzzy matching (`rapidfuzz`), 3-tier LLM fallback (Groq → Gemini → OpenRouter), and Telegram alerts. | `Python` `Asyncio` `Pydantic` `SQLite` `Docker` `GitHub Actions` `Streamlit` | [Repo](https://github.com/atulkanttiwari/hiresignal-ai) • [Live Demo](https://hiresignal-ai.streamlit.app/) |
-| **End-to-End Phishing Detection Pipeline** | Modular ML pipeline ingesting 11,000+ URL records from MongoDB & MySQL with KNN imputation, schema/data-drift validation, MLflow tracking, and XGBoost served via FastAPI on AWS. | `Python` `XGBoost` `Scikit-learn` `FastAPI` `MongoDB` `MySQL` `MLflow` `Docker` `AWS` | [Repo](https://github.com/atulkanttiwari/End-to-End-Phishing-Detection-System) |
-| **Employee Attendance & Payroll Analytics API** | RESTful backend managing employee records, daily attendance logs, and automated monthly payroll with MongoDB aggregation pipelines, compound unique indexes, and Swagger docs. | `FastAPI` `MongoDB` `Pydantic` `Docker` `REST APIs` | [Repos](https://github.com/atulkanttiwari?tab=repositories) |
-| **AI Transformation Strategy Engine** | Generative AI research engine combining live DuckDuckGo web search (`ddgs`) with LangChain (LCEL) & Groq to synthesize structured enterprise strategy reports with SQLite persistence. | `Python` `LangChain (LCEL)` `Groq API` `SQLite` `Streamlit` | [Repo](https://github.com/atulkanttiwari/AI-Transformation-Strategy-Intelligence) |
+| **HireSignal AI** | Autonomous daily job-intelligence ELT pipeline ingesting 2,900+ postings/run with fuzzy dedup (`rapidfuzz`), 3-tier LLM fallback (Groq → Gemini → OpenRouter), and Telegram alerts. | `Python` `Asyncio` `Pydantic` `SQLite` `Docker` `GitHub Actions` `Streamlit` | [Repo](https://github.com/atulkanttiwari/hiresignal-ai)<br>[Live Demo](https://hiresignal-ai.streamlit.app/) |
+| **Phishing Detection ML Pipeline** | End-to-end ML pipeline ingesting 11,000+ URLs from MongoDB & MySQL with KNN imputation, schema/drift validation, MLflow tracking, and XGBoost served via FastAPI on AWS. | `Python` `XGBoost` `FastAPI` `MongoDB` `MySQL` `MLflow` `Docker` `AWS` | [Repo](https://github.com/atulkanttiwari/End-to-End-Phishing-Detection-System) |
+| **Employee Attendance & Payroll API** | RESTful backend managing employee records, attendance logs, and automated monthly payroll with MongoDB aggregation pipelines, compound unique indexes, and Swagger docs. | `FastAPI` `MongoDB` `Pydantic` `Docker` `REST APIs` | [Repos](https://github.com/atulkanttiwari?tab=repositories) |
+| **AI Strategy Intelligence Engine** | Research-grounded assistant combining live DuckDuckGo search (`ddgs`) with LangChain (LCEL) & Groq to generate enterprise strategy reports with SQLite persistence. | `Python` `LangChain` `Groq API` `SQLite` `Streamlit` | [Repo](https://github.com/atulkanttiwari/AI-Transformation-Strategy-Intelligence) |
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
+
+<div align="center">
 
 **Programming, Web & Databases**
 <p>
@@ -54,7 +63,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=databricks&logoColor=white" alt="MS SQL Server"/>
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge" alt="MS SQL Server"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
@@ -62,11 +71,11 @@
 **Generative AI & Backend**
 <p>
   <img src="https://img.shields.io/badge/LangChain_%7C_LCEL-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=lightning&logoColor=white" alt="Groq API"/>
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge" alt="Groq API"/>
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/>
-  <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter"/>
+  <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge" alt="OpenRouter"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Asyncio"/>
 </p>
@@ -79,25 +88,26 @@
   <img src="https://img.shields.io/badge/Keras_(ANN_%7C_CNN_%7C_LSTM)-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="MS Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge" alt="MS Excel"/>
 </p>
 
-**MLOps, Cloud & Core CS**
+**MLOps, Cloud & Tools**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub_Actions_(CI%2FCD)-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/AWS_(EC2_%7C_IAM)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS_(EC2_%7C_IAM)-232F3E?style=for-the-badge" alt="AWS"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/DSA_%7C_DBMS_%7C_OS_%7C_CN-4B5563?style=for-the-badge" alt="Core CS"/>
 </p>
+
+</div>
 
 ---
 
-### GitHub Stats & Activity
+### 📊 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atulkanttiwari&theme=tokyonight" width="96%" alt="Profile Summary" />
@@ -119,6 +129,12 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulkanttiwari&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Activity Graph" />
 </div>
+
+<br/>
+
+<p align="center">
+  <sub>Always open to interesting AI/ML, GenAI, and Backend engineering opportunities — feel free to reach out!</sub>
+</p>
 
 <!-- Animated Wave Footer -->
 <p align="center">
